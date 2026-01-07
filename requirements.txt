@@ -1,0 +1,6 @@
+deepface
+psutil
+tensorflow
+tf-keras
+opencv-python
+numpy

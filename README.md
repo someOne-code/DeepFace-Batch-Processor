@@ -12,7 +12,7 @@ Bu proje, \*\*DeepFace\*\* kütüphanesini kullanarak büyük veri setlerini (10
 
 \## 🧠 Mühendislik Kararları ve İyileştirmeler
 
-Kıdemli mühendis eleştirileri doğrultusunda, kodun mimarisi "kaba kuvvet" yerine "akıllı kaynak yönetimi" üzerine yeniden inşa edilmiştir:
+ kodun mimarisi "kaba kuvvet" yerine "akıllı kaynak yönetimi" üzerine yeniden inşa edilmiştir:
 
 
 

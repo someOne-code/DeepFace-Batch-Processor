@@ -3,4 +3,5 @@ psutil
 tensorflow
 tf-keras
 opencv-python
-numpy
+numpy<2
+pandas<2.3
